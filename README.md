@@ -1,4 +1,4 @@
-functional_python
+Functional python
 =================
 
 Simple functional programning with python
